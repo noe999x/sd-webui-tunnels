@@ -1,4 +1,4 @@
-# sd-webui-tunnels
+# sd-webui-tunnelss
 
 Tunneling extension for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
